@@ -1,0 +1,15 @@
+/Users/aditep/Desktop/HW301/bin/Debug/net6.0/HW301
+/Users/aditep/Desktop/HW301/bin/Debug/net6.0/HW301.deps.json
+/Users/aditep/Desktop/HW301/bin/Debug/net6.0/HW301.runtimeconfig.json
+/Users/aditep/Desktop/HW301/bin/Debug/net6.0/HW301.dll
+/Users/aditep/Desktop/HW301/bin/Debug/net6.0/HW301.pdb
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.csproj.AssemblyReference.cache
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.AssemblyInfoInputs.cache
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.AssemblyInfo.cs
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.csproj.CoreCompileInputs.cache
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.dll
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/refint/HW301.dll
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.pdb
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/HW301.genruntimeconfig.cache
+/Users/aditep/Desktop/HW301/obj/Debug/net6.0/ref/HW301.dll
